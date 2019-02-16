@@ -111,6 +111,7 @@ body::before {
 <main>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+<section>
 ----- Forwarded Message -----<br>
 From: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com><br>
 To: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp>; "gt_s.hara@icloud.com" <gt_s.hara@icloud.com>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp> <br>
@@ -254,7 +255,7 @@ Subject: ３月８日、菊やん参加です！<br>
 080-8049-8947<br>
  <br>
 はだっち<br>
-
+</section>
 </main>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
