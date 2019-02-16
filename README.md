@@ -108,7 +108,6 @@ body::before {
 	</p></h3>
 
 <br><br>
-<main>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 <section>
@@ -256,7 +255,6 @@ Subject: ３月８日、菊やん参加です！<br>
  <br>
 はだっち<br>
 </section>
-</main>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
 	
