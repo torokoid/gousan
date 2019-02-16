@@ -112,6 +112,44 @@ body::before {
 <main>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+	コベンです。菊やん参加バンザイ。<br>
+店の希望は　①，②、③の順がいいと思います<br>
+記念品のアイディアは今のところ思いつきません。<br>
+コーちゃんとまっちゃんに期待します<br>
+
+ 
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Monday, February 11, 2019 7:12 PM<br>
+To: 羽田 智 <sajyan_882002@yahoo.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: 菊やん　了解！　お店の検討<br>
+ 
+皆様にご連絡です。<br>
+ 
+羽田さん<br>
+連絡を有難う御座います。<br>
+了解しました。<br>
+お店を8名で予約入れます。<br>
+ <br>
+お店は、私としては下記の順で当日の予約が取れたら決めたいと思いますが、<br>
+①   常本寿司　　足銀宇都宮中央支店交差点を100m南下<br>
+②   明日香　　割烹　　　記念病院100m裏手<br>
+③   八寸庵 花子　　　南大門から田川を挟んだ向こう側<br>
+　<br>
+皆さんは如何ですか？　ご意見をお聞かせ下さい。<br>
+                      HRD 第4BL　高橋(8763609)<br>
+From: 羽田 智 [mailto:sajyan_882002@yahoo.co.jp] <br>
+Sent: Saturday, February 9, 2019 9:05 AM<br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: ３月８日、菊やん参加です！<br>
+ <br>
+昨日、菊やんとお話しできました。<br>
+３月８日は参加OKとのことです。<br>
+電話番号もGetしましたので、直接お話ししたい方はどうぞ！<br>
+080-8049-8947<br>
+ <br>
+はだっち<br>
 
 </main>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
