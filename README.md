@@ -111,6 +111,89 @@ body::before {
 <main>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+----- Forwarded Message -----<br>
+From: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com><br>
+To: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp>; "gt_s.hara@icloud.com" <gt_s.hara@icloud.com>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp> <br>
+Cc: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Date: 2019/2/16, Sat 08:43<br>
+Subject: RE: 【会場決定】郷さんご退任のお祝い<br>
+<br>
+ハダッチ<br>
+連絡を有難う御座います。<br>
+ <br>
+そうですね、私からも電話してみます。<br>
+宜しくお願いします。                     HRD 第4BL　高橋(8763609)<br>
+From: 羽田 智 [mailto:sajyan_882002@yahoo.co.jp] <br>
+Sent: Friday, February 15, 2019 9:48 PM<br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp><br>
+Cc: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: Re: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+先ほど菊やんからTELがありました。<br>
+場所と時間をお伝えしました。<br>
+先週お会いした時もそうでしたが、お元気そうです。<br>
+はだっちより。<br>
+ <br>
+----- Original Message -----<br>
+From: 羽田 智 <sajyan_882002@yahoo.co.jp><br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp>; "gt_s.hara@icloud.com" <gt_s.hara@icloud.com>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp> <br>
+Cc: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Date: 2019/2/15, Fri 18:05<br>
+Subject: Re: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+コーちゃん<br>
+了解、ありがとうございました！<br>
+菊やんはTELのみ連絡可能です。<br>
+080-8049-8947<br>
+はだっちはこないだ会ったばかりなので、久々にこべんちゃん、TELなんかどうでしょう？<br>
+ダメなら私からTELしますが・・・<br>
+はだっちより<br>
+ <br>
+----- Original Message -----<br>
+From: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com><br>
+To: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp>; "gt_s.hara@icloud.com" <gt_s.hara@icloud.com>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp> <br>
+Cc: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Date: 2019/2/15, Fri 15:30<br>
+Subject: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+皆様、ご苦労様です。<br>
+ <br>
+標記のご連絡になります。<br>
+ハダッチ殿、菊ﾔﾝに連絡して下さい。　アドレスが解りましたら教えて下さい。<br>
+ <br>
+           日　程　　；　　3月8日（金）　　<br>
+           時　間　　；　　１９：３０～　　お店にはこの時間でお願いしました。<br>
+           場　所　　；　　常本寿司　　028-634-5550　　　足銀宇都宮中央支店交差点を100m南下<br>
+           会　費　　；　　検討中<br>
+ <br>
+マッちゃん、先月の連絡で「記念品の段取りを進めてます」との事でしたが、費用はどの位掛かりますか？<br>
+会費に加えたいと思います。　　進行状況など、教えて下さい。<br>
+花籠は私の方で準備します。<br>
+ <br>
+以上、宜しくお願い致します。                                 HRD第４BL　高橋(8763609/080-9196-6625)<br>
+<br>
+<br>
+----- Forwarded Message -----<br>
+From: "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp><br>
+To: Hideyuki Takahashi <hideyuki_takahashi@sakura.rd.honda.com> <br>
+Cc: Akihiro Takano <akihiro_takano@n.t.rd.honda.co.jp>; "gt_s.hara@icloud.com" <gt_s.hara@icloud.com>; Hidetaka Shinozaki <Hidetaka_Shinozaki@wdhac.honda.com.cn>; Mitsuo Takashima <mitsuo_takashima@n.t.rd.honda.co.jp>; 羽田 智 <sajyan_882002@yahoo.co.jp>; Satoshi Hada <satoshi_hada@n.t.rd.honda.co.jp><br>
+Date: 2019/2/12, Tue 09:25<br>
+Subject: Re: 菊やん　了解！　お店の検討<br>
+<br>
+お世話になります。 <br>
+<br>
+　色々ありがとうございます。 <br>
+<br>
+　順番、①②③の順でOKです。 <br>
+<br>
+<br>
+----- Forwarded Message -----<br>
+From: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com><br>
+To: 羽田 智 <sajyan_882002@yahoo.co.jp> <br>
+Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp>; "gt_s.hara@icloud.com" <gt_s.hara@icloud.com>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Date: 2019/2/11, Mon 22:45<br>
+Subject: Re: 菊やん　了解！　お店の検討<br>
+<br>
 ハダッチ、コベンちゃん<br>
 連絡を有難う御座います。<br>
 <br>
