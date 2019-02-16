@@ -53,8 +53,8 @@ body::before {
   left:0;
   z-index:-1;
   width:100%;
-  height:100vh;
-  background:url(https://torokoid.github.io/fts_furuhashi/20181115_29.JPG) center/cover no-repeat; /*fixedをトル！*/
+  height:100vh;https://torokoid.github.io/gousan/20181115_29.JPG
+  background:url() center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
@@ -63,7 +63,7 @@ body::before {
  
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2018年11月15日(木)に元FTS古橋さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年3月8日(金)に’８５研友会、郷田さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
