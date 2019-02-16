@@ -62,7 +62,7 @@ body::before {
  
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年3月8日(金)に’８５研友会、郷田さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2019年3月8日(金)に’８５研友会、郷田さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
@@ -111,7 +111,29 @@ body::before {
 <main>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
-	コベンです。菊やん参加バンザイ。<br>
+ハダッチ、コベンちゃん<br>
+連絡を有難う御座います。<br>
+<br>
+お店に連絡を入れます。<br>
+<br>
+
+iPhoneから送信<br>
+<br>
+2019/02/11 19:54、羽田 智 <sajyan_882002@yahoo.co.jp>のメール:<br>
+<br>
+コーちゃん<br>
+お手数おかけしてます。<br>
+はだっちもこの順番に賛同します！<br>
+よろしくお願いします。<br>
+<br>
+----- Original Message -----<br>
+From: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp><br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; 羽田 智 <sajyan_882002@yahoo.co.jp>; "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp>; "gt_s.hara@icloud.com" <gt_s.hara@icloud.com>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp> <br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Date: 2019/2/11, Mon 19:18<br>
+Subject: RE: 菊やん　了解！　お店の検討<br>
+<br>
+コベンです。菊やん参加バンザイ。<br>
 店の希望は　①，②、③の順がいいと思います<br>
 記念品のアイディアは今のところ思いつきません。<br>
 コーちゃんとまっちゃんに期待します<br>
