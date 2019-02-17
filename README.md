@@ -258,6 +258,8 @@ Subject: ３月８日、菊やん参加です！<br>
  <br>
 はだっち<br>
 <br>
+・・・もっと遡りますので、しばしお待ちを・・・<br>
+<br>
 </section>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
