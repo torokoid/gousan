@@ -102,14 +102,14 @@ body::before {
 -->
 <h4><span class="white">↑画像挿入イメージ。</span></h4><br>
 
-
+<!--
 <h1>     <span class="blue"><strong>動画リンク集</strong></span></h1>
  <h3>
 <p>動画挿入イメージ<br>
  <a href="https://youtu.be/W5K0uA5AadE" target="_blank">横山さんスピーチ</a><br/>
  <a href="https://youtu.be/rfUiO9g_3ug" target="_blank">古橋さんスピーチ</a><br/>
 	</p></h3>
-
+-->
 <br><br>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
