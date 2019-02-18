@@ -40,7 +40,7 @@ body {
 background-color: rgba(0, 225, 0, 0.4); 
 }
 section {
-background-color: rgba(255, 255, 255, 0.3);
+background-color: rgba(192, 192, 192, 0.3);
 }
 
 #wrap {background:none} /*PC用の背景はオフ*/
