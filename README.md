@@ -176,373 +176,99 @@ Subject: 【会場決定】郷さんご退任のお祝い<br>
 以上、宜しくお願い致します。                                 HRD第４BL　高橋(8763609/080-9196-6625)<br>
 <br>
 <br>
-	
------Original Message-----
-From: Hideyuki Takahashi (高橋 秀幸) 
-Sent: Monday, February 18, 2019 7:33 AM
-To: 羽田 智 <sajyan_882002@yahoo.co.jp>
-Cc: 原栄光 <gt_s.hara@icloud.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 【会場決定】郷さんご退任のお祝い
- 
-おはよう御座います。
-ゴメンナサイ。
-メール見るのが遅れました。
-そうですね。
-本当に久しぶりですね。
- 
-ヒカル殿    近くだったんですね
-お願いして貰えても良いですか。
-お手数ですが声をかけてみて下さい。
-宜しくお願い致します。
- 
-iPhoneから送信
- 
-2019/02/17 8:45、羽田 智 <sajyan_882002@yahoo.co.jp>のメール:
- 
-> 光るちゃん、お久しぶりです。
-> 連絡 → 返答 → お店予約変更 となるので、
-> なるべく早い方が良いと思います。
-> コーちゃん、どうでしょう？
-> はだっち
- 
- 
-From: 原栄光 [mailto:gt_s.hara@icloud.com] 
-Sent: Saturday, February 16, 2019 11:42 AM
-To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>
-Cc: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 【会場決定】郷さんご退任のお祝い
- 
-ヒカルです。
-カワッチョがメール入ってないけど、家が近所だから連絡してみましょうか？
- 
-iPhoneから送信
- 
-***************************
-原 栄光
-株式会社ジーテクト
-技術本部
-Sakae_Hara@g-tekt.co.jp
-080-7837-9368
-***************************
- 
- 
-From: Hideyuki Takahashi (高橋 秀幸) 
-Sent: Tuesday, February 12, 2019 9:58 AM
-To: Sakae_Hara@g-tekt.co.jp
-Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: RE: 菊やん　了解！　お店の検討
- 
-ヒカル殿
-連絡を有難う御座います。
- 
-開始時間とかも調整しましょう。2時間掛かれば　19:30～　にしましょう。
-金曜だしね。
-詳細は、また連絡します。
-                                  HRD 第4BL　高橋(8763609/080-9196-6625)
-From: Sakae_Hara@g-tekt.co.jp [mailto:Sakae_Hara@g-tekt.co.jp] 
-Sent: Tuesday, February 12, 2019 9:42 AM
-To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>
-Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 菊やん　了解！　お店の検討
- 
-皆様ご無沙汰しております。ヒカルです。 
-みんな元気そうですね。 
-
-
-お店はどこでも大丈夫ですよ。 
-８日は羽村から行きます。宇都宮までは２時間弱なので、ちょっと早引けするようですかね...。 
-楽しみにしています。 
-
-********************************* 
-原　栄光 
-
-株式会社ジーテクト 
-技術本部 
-
-〒205-0023 
-東京都羽村市神明台4-8-1 
-Tel:042-553-9388 
-Mobile:080-7837-9368 
-email:Sakae_Hara@g-tekt.co.jp 
-*********************************
------Original Message-----
-From: Hideyuki Takahashi (高橋 秀幸) 
-Sent: Monday, February 18, 2019 7:33 AM
-To: 羽田 智 <sajyan_882002@yahoo.co.jp>
-Cc: 原栄光 <gt_s.hara@icloud.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 【会場決定】郷さんご退任のお祝い
- 
-おはよう御座います。
-ゴメンナサイ。
-メール見るのが遅れました。
-そうですね。
-本当に久しぶりですね。
- 
-ヒカル殿    近くだったんですね
-お願いして貰えても良いですか。
-お手数ですが声をかけてみて下さい。
-宜しくお願い致します。
- 
-iPhoneから送信
- 
-2019/02/17 8:45、羽田 智 <sajyan_882002@yahoo.co.jp>のメール:
- 
-> 光るちゃん、お久しぶりです。
-> 連絡 → 返答 → お店予約変更 となるので、
-> なるべく早い方が良いと思います。
-> コーちゃん、どうでしょう？
-> はだっち
- 
- 
-From: 原栄光 [mailto:gt_s.hara@icloud.com] 
-Sent: Saturday, February 16, 2019 11:42 AM
-To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>
-Cc: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 【会場決定】郷さんご退任のお祝い
- 
-ヒカルです。
-カワッチョがメール入ってないけど、家が近所だから連絡してみましょうか？
- 
-iPhoneから送信
- 
-***************************
-原 栄光
-株式会社ジーテクト
-技術本部
-Sakae_Hara@g-tekt.co.jp
-080-7837-9368
-***************************
- 
- 
-From: Hideyuki Takahashi (高橋 秀幸) 
-Sent: Tuesday, February 12, 2019 9:58 AM
-To: Sakae_Hara@g-tekt.co.jp
-Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: RE: 菊やん　了解！　お店の検討
- 
-ヒカル殿
-連絡を有難う御座います。
- 
-開始時間とかも調整しましょう。2時間掛かれば　19:30～　にしましょう。
-金曜だしね。
-詳細は、また連絡します。
-                                  HRD 第4BL　高橋(8763609/080-9196-6625)
-From: Sakae_Hara@g-tekt.co.jp [mailto:Sakae_Hara@g-tekt.co.jp] 
-Sent: Tuesday, February 12, 2019 9:42 AM
-To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>
-Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 菊やん　了解！　お店の検討
- 
-皆様ご無沙汰しております。ヒカルです。 
-みんな元気そうですね。 
-
-
-お店はどこでも大丈夫ですよ。 
-８日は羽村から行きます。宇都宮までは２時間弱なので、ちょっと早引けするようですかね...。 
-楽しみにしています。 
-
-********************************* 
-原　栄光 
-
-株式会社ジーテクト 
-技術本部 
-
-〒205-0023 
-東京都羽村市神明台4-8-1 
-Tel:042-553-9388 
-Mobile:080-7837-9368 
-email:Sakae_Hara@g-tekt.co.jp 
-*********************************
------Original Message-----
-From: Hideyuki Takahashi (高橋 秀幸) 
-Sent: Monday, February 18, 2019 7:33 AM
-To: 羽田 智 <sajyan_882002@yahoo.co.jp>
-Cc: 原栄光 <gt_s.hara@icloud.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 【会場決定】郷さんご退任のお祝い
- 
-おはよう御座います。
-ゴメンナサイ。
-メール見るのが遅れました。
-そうですね。
-本当に久しぶりですね。
- 
-ヒカル殿    近くだったんですね
-お願いして貰えても良いですか。
-お手数ですが声をかけてみて下さい。
-宜しくお願い致します。
- 
-iPhoneから送信
- 
-2019/02/17 8:45、羽田 智 <sajyan_882002@yahoo.co.jp>のメール:
- 
-> 光るちゃん、お久しぶりです。
-> 連絡 → 返答 → お店予約変更 となるので、
-> なるべく早い方が良いと思います。
-> コーちゃん、どうでしょう？
-> はだっち
- 
- 
-From: 原栄光 [mailto:gt_s.hara@icloud.com] 
-Sent: Saturday, February 16, 2019 11:42 AM
-To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>
-Cc: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 【会場決定】郷さんご退任のお祝い
- 
-ヒカルです。
-カワッチョがメール入ってないけど、家が近所だから連絡してみましょうか？
- 
-iPhoneから送信
- 
-***************************
-原 栄光
-株式会社ジーテクト
-技術本部
-Sakae_Hara@g-tekt.co.jp
-080-7837-9368
-***************************
- 
- 
-From: Hideyuki Takahashi (高橋 秀幸) 
-Sent: Tuesday, February 12, 2019 9:58 AM
-To: Sakae_Hara@g-tekt.co.jp
-Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: RE: 菊やん　了解！　お店の検討
- 
-ヒカル殿
-連絡を有難う御座います。
- 
-開始時間とかも調整しましょう。2時間掛かれば　19:30～　にしましょう。
-金曜だしね。
-詳細は、また連絡します。
-                                  HRD 第4BL　高橋(8763609/080-9196-6625)
-From: Sakae_Hara@g-tekt.co.jp [mailto:Sakae_Hara@g-tekt.co.jp] 
-Sent: Tuesday, February 12, 2019 9:42 AM
-To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>
-Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 菊やん　了解！　お店の検討
- 
-皆様ご無沙汰しております。ヒカルです。 
-みんな元気そうですね。 
-
-
-お店はどこでも大丈夫ですよ。 
-８日は羽村から行きます。宇都宮までは２時間弱なので、ちょっと早引けするようですかね...。 
-楽しみにしています。 
-
-********************************* 
-原　栄光 
-
-株式会社ジーテクト 
-技術本部 
-
-〒205-0023 
-東京都羽村市神明台4-8-1 
-Tel:042-553-9388 
-Mobile:080-7837-9368 
-email:Sakae_Hara@g-tekt.co.jp 
-*********************************
 
 
 
+-----Original Message-----<br>
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Monday, February 18, 2019 7:33 AM<br>
+To: 羽田 智 <sajyan_882002@yahoo.co.jp><br>
+Cc: 原栄光 <gt_s.hara@icloud.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: Re: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+おはよう御座います。<br>
+ゴメンナサイ。<br>
+メール見るのが遅れました。<br>
+そうですね。<br>
+本当に久しぶりですね。<br>
+ <br>
+ヒカル殿    近くだったんですね<br>
+お願いして貰えても良いですか。<br>
+お手数ですが声をかけてみて下さい。<br>
+宜しくお願い致します。<br>
+ <br>
+iPhoneから送信<br>
+ <br>
+2019/02/17 8:45、羽田 智 <sajyan_882002@yahoo.co.jp>のメール:<br>
+ <br>
+> 光るちゃん、お久しぶりです。<br>
+> 連絡 → 返答 → お店予約変更 となるので、<br>
+> なるべく早い方が良いと思います。<br>
+> コーちゃん、どうでしょう？<br>
+> はだっち<br>
+ <br>
+ <br>
+From: 原栄光 [mailto:gt_s.hara@icloud.com] <br>
+Sent: Saturday, February 16, 2019 11:42 AM<br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com><br>
+Cc: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: Re: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+ヒカルです。<br>
+カワッチョがメール入ってないけど、家が近所だから連絡してみましょうか？<br>
+ <br>
+iPhoneから送信<br>
+ <br>
+***************************<br>
+原 栄光<br>
+株式会社ジーテクト<br>
+技術本部<br>
+Sakae_Hara@g-tekt.co.jp<br>
+080-7837-9368<br>
+***************************<br>
+ <br>
+ <br>
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Tuesday, February 12, 2019 9:58 AM<br>
+To: Sakae_Hara@g-tekt.co.jp<br>
+Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: RE: 菊やん　了解！　お店の検討<br>
+ <br>
+ヒカル殿<br>
+連絡を有難う御座います。<br>
+ <br>
+開始時間とかも調整しましょう。2時間掛かれば　19:30～　にしましょう。<br>
+金曜だしね。<br>
+詳細は、また連絡します。<br>
+                                  HRD 第4BL　高橋(8763609/080-9196-6625)<br>
+From: Sakae_Hara@g-tekt.co.jp [mailto:Sakae_Hara@g-tekt.co.jp] <br>
+Sent: Tuesday, February 12, 2019 9:42 AM<br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com><br>
+Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: Re: 菊やん　了解！　お店の検討<br>
+ <br>
+皆様ご無沙汰しております。ヒカルです。 <br>
+みんな元気そうですね。 <br>
+<br>
+お店はどこでも大丈夫ですよ。 <br>
+８日は羽村から行きます。宇都宮までは２時間弱なので、ちょっと早引けするようですかね...。 <br>
+楽しみにしています。 <br>
+<br>
+********************************* <br>
+原　栄光 <br>
+<br>
+株式会社ジーテクト <br>
+技術本部 <br>
+<br>
+〒205-0023 <br>
+東京都羽村市神明台4-8-1 <br>
+Tel:042-553-9388 <br>
+Mobile:080-7837-9368 <br>
+email:Sakae_Hara@g-tekt.co.jp <br>
+*********************************<br>
 
-
-
-
------Original Message-----
-From: Hideyuki Takahashi (高橋 秀幸) 
-Sent: Monday, February 18, 2019 7:33 AM
-To: 羽田 智 <sajyan_882002@yahoo.co.jp>
-Cc: 原栄光 <gt_s.hara@icloud.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 【会場決定】郷さんご退任のお祝い
- 
-おはよう御座います。
-ゴメンナサイ。
-メール見るのが遅れました。
-そうですね。
-本当に久しぶりですね。
- 
-ヒカル殿    近くだったんですね
-お願いして貰えても良いですか。
-お手数ですが声をかけてみて下さい。
-宜しくお願い致します。
- 
-iPhoneから送信
- 
-2019/02/17 8:45、羽田 智 <sajyan_882002@yahoo.co.jp>のメール:
- 
-> 光るちゃん、お久しぶりです。
-> 連絡 → 返答 → お店予約変更 となるので、
-> なるべく早い方が良いと思います。
-> コーちゃん、どうでしょう？
-> はだっち
- 
- 
-From: 原栄光 [mailto:gt_s.hara@icloud.com] 
-Sent: Saturday, February 16, 2019 11:42 AM
-To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>
-Cc: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 【会場決定】郷さんご退任のお祝い
- 
-ヒカルです。
-カワッチョがメール入ってないけど、家が近所だから連絡してみましょうか？
- 
-iPhoneから送信
- 
-***************************
-原 栄光
-株式会社ジーテクト
-技術本部
-Sakae_Hara@g-tekt.co.jp
-080-7837-9368
-***************************
- 
- 
-From: Hideyuki Takahashi (高橋 秀幸) 
-Sent: Tuesday, February 12, 2019 9:58 AM
-To: Sakae_Hara@g-tekt.co.jp
-Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: RE: 菊やん　了解！　お店の検討
- 
-ヒカル殿
-連絡を有難う御座います。
- 
-開始時間とかも調整しましょう。2時間掛かれば　19:30～　にしましょう。
-金曜だしね。
-詳細は、また連絡します。
-                                  HRD 第4BL　高橋(8763609/080-9196-6625)
-From: Sakae_Hara@g-tekt.co.jp [mailto:Sakae_Hara@g-tekt.co.jp] 
-Sent: Tuesday, February 12, 2019 9:42 AM
-To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>
-Cc: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; gt_s.hara@icloud.com; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>
-Subject: Re: 菊やん　了解！　お店の検討
- 
-皆様ご無沙汰しております。ヒカルです。 
-みんな元気そうですね。 
-
-
-お店はどこでも大丈夫ですよ。 
-８日は羽村から行きます。宇都宮までは２時間弱なので、ちょっと早引けするようですかね...。 
-楽しみにしています。 
-
-********************************* 
-原　栄光 
-
-株式会社ジーテクト 
-技術本部 
-
-〒205-0023 
-東京都羽村市神明台4-8-1 
-Tel:042-553-9388 
-Mobile:080-7837-9368 
-email:Sakae_Hara@g-tekt.co.jp 
-*********************************
-
-<
-
-*********************************	
-
-
-
+<br>
+<br>
 
 ----- Forwarded Message -----<br>
 From: "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp><br>
