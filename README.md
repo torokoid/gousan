@@ -351,7 +351,243 @@ Subject: ３月８日、菊やん参加です！<br>
  <br>
 はだっち<br>
 <br>
-・・・もっと遡りますので、しばしお待ちを・・・<br>
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Friday, February 8, 2019 5:05 PM<br>
+To: Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; 原栄光 <gt_s.hara@icloud.com><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: RE: 【会場etc.ご相談】郷さんのご退任のお祝い会<br>
+ <br>
+マッちゃん<br>
+ありがとうさんです。<br>
+菊ﾔﾝの時は84理事とホテルでゴンさんとの合同会？のと他に<br>
+８５メンバーで料理屋でやらなかったっけ？　何かの時と．．．．<br>
+スミマセン。<br>
+ <br>
+記念品段取り　有難う御座います。　日程は厳しくとも目録でお渡ししてというのも有りと思います。<br>
+花籠(奥様に)はお渡ししたいですね。<br>
+有難う御座います。                      HRD 第4BL　高橋(8763609)<br>
+<br>
+From: Akihiro Takano (高野 明浩) <br>
+Sent: Friday, February 8, 2019 4:48 PM<br>
+To: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Takayuki_Takada@autotechnic.co.jp; 原栄光 <gt_s.hara@icloud.com><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: RE: 【会場etc.ご相談】郷さんのご退任のお祝い会<br>
+ <br>
+菊ヤンの退職祝いは？・・・覚えていなーい・・・準備メインが８４メンバーで、だったかな～<br>
+ <br>
+記念品の段取りは進めています、（試作に伝手のある人経由で）・・・ですが<br>
+3月中旬になりそう・・・前倒し出来るかこれから相談です。<br>
+これだけでは若干寂しいので８５メンバーの気持ちで<br>
+手頃な物をプレゼントすれば良いかと、・・・何か案あれば<br>
+・・・希少なお酒、並ばないと買えないスイーツ、・・・気持ちを分かって頂けるかは？ですが<br>
+如何でしょうか<br>
+ <br>
+高野<br>
+ <br>
+From: Mitsuo Takashima (高島 光男) <br>
+Sent: Friday, February 08, 2019 4:01 PM<br>
+To: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Takayuki_Takada@autotechnic.co.jp; 原栄光 <gt_s.hara@icloud.com>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: RE: 【会場etc.ご相談】郷さんのご退任のお祝い会<br>
+ <br>
+コベンです。ハダッチ　ありがとう<br>
+ <br>
+From: Satoshi Hada (羽田 智) <br>
+Sent: Friday, February 8, 2019 3:55 PM<br>
+To: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Takayuki_Takada@autotechnic.co.jp; 原栄光 <gt_s.hara@icloud.com>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: RE: 【会場etc.ご相談】郷さんのご退任のお祝い会<br>
+ <br>
+菊やんのうちにメモ入れて、Goさんの退任祝い日時、場所候補と、こちらのメンバーの連絡先を伝えますね～！<br>
+一名増でも、花子や明日香なら何とかなると思います。<br>
+羽田（HGT,1G-1、内線：87-7-3351）<br>
+ <br>
+From: Mitsuo Takashima (高島 光男) <br>
+Sent: Friday, February 8, 2019 3:24 PM<br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Takayuki_Takada@autotechnic.co.jp; 原栄光 <gt_s.hara@icloud.com>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: RE: 【会場etc.ご相談】郷さんのご退任のお祝い会<br>
+ <br>
+コベンです。そういえば菊やん来ないかな<br>
+連絡先誰かわかりますか・<br>
+ <br>
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Friday, February 8, 2019 3:21 PM<br>
+To: Takayuki_Takada@autotechnic.co.jp; 原栄光 <gt_s.hara@icloud.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: 【会場etc.ご相談】郷さんのご退任のお祝い会<br>
+ <br>
+皆様、お疲れ様です。<br>
+ <br>
+丁度、あと1か月ですが、皆様にご相談です。<br>
+ <br>
+“会場”は何処か良い所、推薦のお店は有りますか？<br>
+私が思うのは下記の場所ですが、<br>
+           八寸庵　花子（はちすあん　はなこ）　雰囲気は良いが、７人は入れる部屋が有ったか？<br>
+           明日香（あすか）　割烹　　　<br>
+皆様、如何ですか？<br>
+ <br>
+それと、記念品で良い案が有りますか？<br>
+ハダッチが、当日のスナップショットをアルバムにしてくれるそうです。素敵な形式で．．．　良い感じです。<br>
+ <br>
+マッちゃん----菊ﾔﾝの時って何か渡したっけ？　<br>
+私が思うに、人数が我々、６名ですし(見栄晴いれても７人)大したことはできないし<br>
+無理に仕上げるのも．．．．．．<br>
+郷さんに　“欲しい物有りますか？”　って聞いてしまうのも手かと思います。　まだ聞けてません。<br>
+如何ですか？<br>
+ <br>
+場所と記念品、皆様で良い考えが御座いましたら連絡ください。<br>
+ <br>
+ＰＳ；本日、採血でHGTに行ったら出張者ロッカーで　見栄晴とバッタリ。　<br>
+そう言えば「春節で帰国」って書いてあった。　　でもこんな奇遇な事は珍しい<br>
+　　　　３０分ほどお茶しました。　中国に行って６年になるそうです。　変わらずお元気でした。<br>
+ <br>
+                      HRD 第４BL　高橋（8763609／080-9196-6625）<br><br>
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Wednesday, January 30, 2019 7:17 PM<br>
+To: Takayuki_Takada@autotechnic.co.jp; 原栄光 <gt_s.hara@icloud.com>; Mitsuo Takashima (高島 光男) <Mitsuo_Takashima@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <Satoshi_Hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <Akihiro_Takano@n.t.rd.honda.co.jp><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>; SUEO GOUDA (郷田 末雄) <Sueo_Goda@hm.honda.co.jp><br>
+Subject: 【日程決定】郷さんのご退任のお祝い会<br>
+ <br>
+皆様、お疲れ様です。<br>
+ <br>
+郷さん、ご退任に向けまして８５マル研理事でお祝い会を行いましょう。<br>
+郷さんと日程の調整をさせて頂き下記の日取りとさせて頂きます。<br>
+ <br>
+           日　程　　；　　3月8日（金）　　<br>
+           時　間　　；　　仮１９：００～　　ご要望に応じます<br>
+           場　所　　；　　ご要望に応じます<br>
+ <br>
+郷さん、宜しくお願い致します。<br>
+ <br>
+時間、場所等は相談させて下さい。<br>
+皆様、宜しいでしょうか？　　　<br>
+今後共、宜しくお願い致しますﾃﾞｽ。<br>
+ <br>
+                      HRD 第４BL　高橋（8763609／080-9196-6625）<br>
+ <br>
+ <br>
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Wednesday, January 30, 2019 10:29 AM<br>
+To: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Cc: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp><br>
+Subject: RE: 郷さんのご退任のお祝い会<br>
+ <br>
+コベンﾁｬﾝ<br>
+連絡を有難う御座います。<br>
+ <br>
+これで皆さんから連絡頂けたので<br>
+3月の前半の金曜で郷さんと調整してみます。<br>
+ <br>
+まずは、ご連絡まで。<br>
+                      HRD 第4BL　高橋（8763609）<br>
+From: Mitsuo Takashima (高島 光男) <br>
+Sent: Wednesday, January 30, 2019 9:26 AM<br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Cc: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp><br>
+Subject: RE: 郷さんのご退任のお祝い会<br>
+ <br>
+ＴＡＣ　高島（コベン）です<br>
+やりましょう。行きます。<br>
+でも3月22日は別件があるので、それいがいがいいな。<br>
+ <br>
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Tuesday, January 29, 2019 10:17 PM<br>
+To: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Cc: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp><br>
+Subject: Re: 郷さんのご退任のお祝い会<br>
+ <br>
+見栄晴殿<br>
+連絡を有難う御座います。<br>
+ <br>
+解りました。<br>
+残念だけど仕方がないですね。<br>
+では、今後はCC:で連絡を入れますね<br>
+ <br>
+今後とも宜しく。<br>
+<br>
+iPhoneから送信<br>
+<br>
+2019/01/29 20:02、Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>のメール:<br>
+<br>
+みなさま、ご無沙汰しています。<br>
+ <br>
+お元気でしょうか。<br>
+郷さん卒業祝い、連絡ありがとうございます。<br>
+こちらは、元気でやってますよ。<br>
+ <br>
+来週から中国は春節休みに入るので、1週間ほど日本に帰ります。が、<br>
+3月は、ちょっと無理ですね。<br>
+そのうち、日本に帰任しますので、またそのときに飲みましょう。<br>
+<br>
+******************************************<br>
+東風本田汽車有限公司<br>
+Dongfeng Honda Automobile Co., Ltd.<br>
+研究開発中心 所長    　篠崎秀孝<br>
+R&D Center G/M     Hidetaka Shinozaki<br>
+<br>
+TEL   ： +86-027-8428-6870<br>
+携帯  ： +86-159-2704-9229<br>
+E-Mail： Hidetaka_Shinozaki@wdhac.honda.com.cn<br>
+******************************************<br>
+ <br>
+From: Akihiro Takano (高野 明浩) <br>
+Sent: Tuesday, January 29, 2019 6:42 PM<br>
+To: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: RE: 郷さんのご退任のお祝い会<br>
+ <br>
+ご無沙汰しております。　高野です（マツです）<br>
+・・・先日、立ち話で　ハダッチとこの話しをしました。<br>
+了解しました、改めて打合せですね。<br>
+よろしくお願いします。<br>
+ <br>
+高野　8703541<br>
+ <br>
+ <br>
+From: Satoshi Hada (羽田 智) <br>
+Sent: Tuesday, January 29, 2019 5:31 PM<br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp><br>
+Cc: Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>
+Subject: RE: 郷さんのご退任のお祝い会<br><br>
+ <br>
+こーちゃん！（ひでさん）<br>
+ <br>
+了解、ハダッチはOKです。<br>
+見栄春はたぶん、㏄のアドレスだと思います。<br>
+まっちゃんもたぶん・・・。<br>
+ <br>
+羽田（HGT,1G-1、内線：87-7-3351）<br>
+ <br>
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Tuesday, January 29, 2019 6:23 PM<br>
+To: Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp><br>
+Subject: 郷さんのご退任のお祝い会<br>
+ <br>
+お久しぶりです。<br>
+お元気ですか？<br>
+ <br>
+標記のご連絡になります。<br>
+郷さんがこの４月で延長期間の５年満期でご定年を迎えます。<br>
+８５理事でお祝い会をしませんか？<br>
+ <br>
+郷さんには「皆に声を掛けて日程を決めましょう！」と了解を貰いました。<br>
+それで、団長、ヒカルﾁｬﾝには了解を貰いました。<br>
+コベンﾁｬﾝ、ハダッチ、も良いですか？　　<br>
+日程は、３月の金曜日を調整したいと思います。<br>
+ <br>
+あと声を掛けるのが、見栄春----中国WDHACに駐在　 と　名前が出てこない、、、、、、、、、、、<br>
+名前と連絡先解りますか？　教えて下さい。<br>
+詳細は改めて相談しましょう。<br>
+よろしくお願いします。<br>
+*****************************************<br>
+株式会社　本田技術研究所　HRD Sakura<br>
+Honda R&D Co.,Ltd. HRD Sakura<br>
+　　第４ＢＬ　　　　高 橋　 秀 幸<br>
+Phone(直通) 080-9196-6625　　FAX 028-677-6705<br>
+Eメール　Hideyuki_Takahashi@sakura.rd.honda.com<br>
+*****************************************<br>
+<br>
 <br>
 </section>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
