@@ -114,6 +114,57 @@ body::before {
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 <section>
+
+-----Original Message-----<br>
+From: Hideyuki Takahashi (高橋 秀幸) <br>
+Sent: Monday, February 18, 2019 7:33 AM<br>
+To: 羽田 智 <sajyan_882002@yahoo.co.jp><br>
+Cc: 原栄光 <gt_s.hara@icloud.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: Re: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+おはよう御座います。<br>
+ゴメンナサイ。<br>
+メール見るのが遅れました。<br>
+そうですね。<br>
+本当に久しぶりですね。<br>
+ <br>
+ヒカル殿    近くだったんですね<br>
+お願いして貰えても良いですか。<br>
+お手数ですが声をかけてみて下さい。<br>
+宜しくお願い致します。<br>
+ <br>
+iPhoneから送信<br>
+ <br>
+2019/02/17 8:45、羽田 智 <sajyan_882002@yahoo.co.jp>のメール:<br>
+ <br>
+> 光るちゃん、お久しぶりです。<br>
+> 連絡 → 返答 → お店予約変更 となるので、<br>
+> なるべく早い方が良いと思います。<br>
+> コーちゃん、どうでしょう？<br>
+> はだっち<br>
+ <br>
+ <br>
+From: 原栄光 [mailto:gt_s.hara@icloud.com] <br>
+Sent: Saturday, February 16, 2019 11:42 AM<br>
+To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com><br>
+Cc: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: Re: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+ヒカルです。<br>
+カワッチョがメール入ってないけど、家が近所だから連絡してみましょうか？<br>
+ <br>
+iPhoneから送信<br>
+ <br>
+***************************<br>
+原 栄光<br>
+株式会社ジーテクト<br>
+技術本部<br>
+Sakae_Hara@g-tekt.co.jp<br>
+080-7837-9368<br>
+***************************<br>
+ <br>
+ <br>
+ 
 ----- Forwarded Message -----<br>
 From: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com><br>
 To: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp>; "gt_s.hara@icloud.com" <gt_s.hara@icloud.com>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp> <br>
@@ -176,58 +227,6 @@ Subject: 【会場決定】郷さんご退任のお祝い<br>
 以上、宜しくお願い致します。                                 HRD第４BL　高橋(8763609/080-9196-6625)<br>
 <br>
 <br>
-
-
-
------Original Message-----<br>
-From: Hideyuki Takahashi (高橋 秀幸) <br>
-Sent: Monday, February 18, 2019 7:33 AM<br>
-To: 羽田 智 <sajyan_882002@yahoo.co.jp><br>
-Cc: 原栄光 <gt_s.hara@icloud.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
-Subject: Re: 【会場決定】郷さんご退任のお祝い<br>
- <br>
-おはよう御座います。<br>
-ゴメンナサイ。<br>
-メール見るのが遅れました。<br>
-そうですね。<br>
-本当に久しぶりですね。<br>
- <br>
-ヒカル殿    近くだったんですね<br>
-お願いして貰えても良いですか。<br>
-お手数ですが声をかけてみて下さい。<br>
-宜しくお願い致します。<br>
- <br>
-iPhoneから送信<br>
- <br>
-2019/02/17 8:45、羽田 智 <sajyan_882002@yahoo.co.jp>のメール:<br>
- <br>
-> 光るちゃん、お久しぶりです。<br>
-> 連絡 → 返答 → お店予約変更 となるので、<br>
-> なるべく早い方が良いと思います。<br>
-> コーちゃん、どうでしょう？<br>
-> はだっち<br>
- <br>
- <br>
-From: 原栄光 [mailto:gt_s.hara@icloud.com] <br>
-Sent: Saturday, February 16, 2019 11:42 AM<br>
-To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com><br>
-Cc: 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
-Subject: Re: 【会場決定】郷さんご退任のお祝い<br>
- <br>
-ヒカルです。<br>
-カワッチョがメール入ってないけど、家が近所だから連絡してみましょうか？<br>
- <br>
-iPhoneから送信<br>
- <br>
-***************************<br>
-原 栄光<br>
-株式会社ジーテクト<br>
-技術本部<br>
-Sakae_Hara@g-tekt.co.jp<br>
-080-7837-9368<br>
-***************************<br>
- <br>
- <br>
 From: Hideyuki Takahashi (高橋 秀幸) <br>
 Sent: Tuesday, February 12, 2019 9:58 AM<br>
 To: Sakae_Hara@g-tekt.co.jp<br>
