@@ -114,6 +114,141 @@ body::before {
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 <section>
+	
+カワッチョさん<br>
+ <br>
+＞残念ですが、一昨年から、禁酒／禁煙及び飲み会には参加できない状況<br>
+え～皆さん年齢にはかてませんね、お大事にされてください。<br>
+ 
+羽田（HGT,1G-1、内線：87-7-3351）<br>
+<br>
+<br>
+Subject: RE: 【会場決定】郷さんご退任のお祝い<br>
+From: Masao Kawata (川田 政雄) <br>
+Sent: Wednesday, February 20, 2019 10:54 AM<br>
+To: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp><br>
+Cc: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>; 羽田 智 <sajyan_882002@yahoo.co.jp>; 原栄光 <gt_s.hara@icloud.com><br>
+Subject: RE: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+ハダッチ殿　ご無沙汰しております。<br>
+<br>
+お誘いありがとうございます。<br>
+残念ですが、一昨年から、禁酒／禁煙及び飲み会には参加できない状況となっており、欠席となります。<br>
+ <br>
+郷さん、他の皆さんにも宜しくお伝え下さい。<br>
+ <br>
+宜しくお願いします。<br>
+ <br>
+From: Satoshi Hada (羽田 智) <br>
+Sent: Wednesday, February 20, 2019 9:37 AM<br>
+To: Masao Kawata (川田 政雄) <masao_kawata@n.t.rd.honda.co.jp><br>
+Cc: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>; 羽田 智 <sajyan_882002@yahoo.co.jp>; 原栄光 <gt_s.hara@icloud.com><br>
+Subject: RE: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+カワッチョさん、ごぶさたです。。。<br>
+本人かどうか、わからず結構ひやひやしました。<br>
+ <br>
+実は、以下のような段取りで準備が進んでいます。<br>
+引退した菊やんも来てくれることになりました。<br>
+よかったら参加ください。<br>
+還暦後も頑張ってるこーちゃんが、お店の予約をしてくれています。<br>
+ <br>
+こーちゃんの計画　↓<br>
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝<br>
+皆様、ご苦労様です。<br>
+ <br>
+標記のご連絡になります。<br>
+ハダッチ殿、菊ﾔﾝに連絡して下さい。　アドレスが解りましたら教えて下さい。<br>
+ <br>
+           日　程　　；　　3月8日（金）　　<br>
+           時　間　　；　　１９：３０～　　お店にはこの時間でお願いしました。<br>
+           場　所　　；　　常本寿司　　028-634-5550　　　足銀宇都宮中央支店交差点を100m南下<br>
+           会　費　　；　　検討中<br>
+ <br>
+マッちゃん、先月の連絡で「記念品の段取りを進めてます」との事でしたが、費用はどの位掛かりますか？<br>
+会費に加えたいと思います。　　進行状況など、教えて下さい。<br>
+花籠は私の方で準備します。<br>
+ <br>
+以上、宜しくお願い致します。<br>
+HRD第４BL　高橋(8763609/080-9196-6625)<br>
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝<br>
+ <br>
+羽田（HGT,1G-1、内線：87-7-3351）<br>
+ <br>
+-----Original Message-----<br>
+From: Masao Kawata (川田 政雄) <br>
+Sent: Wednesday, February 20, 2019 9:30 AM<br>
+To: Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp><br>
+Cc: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>; 羽田 智 <sajyan_882002@yahoo.co.jp>; 原栄光 <gt_s.hara@icloud.com><br>
+Subject: RE: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+川田（カワッチョ）です。<br>
+ <br>
+ご連絡ありがとうございます。<br>
+郷さんご退任ですか。。<br>
+ <br>
+-----Original Message-----<br>
+From: Satoshi Hada (羽田 智)<br>
+Sent: Wednesday, February 20, 2019 9:08 AM<br>
+To: Masao Kawata (川田 政雄) <masao_kawata@n.t.rd.honda.co.jp><br>
+Cc: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn>; 羽田 智 <sajyan_882002@yahoo.co.jp>; 原栄光 <gt_s.hara@icloud.com><br>
+Subject: RE: 【会場決定】郷さんご退任のお祝い<br>
+<br>
+4G-3 川田さん<br>
+８５研友会の理事をやられていた川田さんとの認識でメールさせていただきました。<br>
+違っていたらごめんなさいです。メール破棄ねがいます。<br>
+ <br>
+実は当時７研理事の郷田さんが引退されるので、3/8(金)にお祝い会を予定しています。<br>
+カワッチョさんでしたら、ご連絡願います。<br>
+ <br>
+羽田（HGT,1G-1、内線：87-7-3351）<br>
+ <br>
+-----Original Message-----<br>
+From: 原栄光 [mailto:gt_s.hara@icloud.com]<br>
+Sent: Wednesday, February 20, 2019 8:26 AM<br>
+To: 羽田 智 <sajyan_882002@yahoo.co.jp><br>
+Cc: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; Takayuki_Takada@autotechnic.co.jp; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Hidetaka Shinozaki (篠崎 秀孝) <Hidetaka_Shinozaki@wdhac.honda.com.cn><br>
+Subject: Re: 【会場決定】郷さんご退任のお祝い<br>
+ <br>
+政男じゃなかったっけ？<br>
+記憶が定かじゃないですね。<br>
+ <br>
+iPhoneから送信<br>
+ <br>
+***************************<br>
+原 栄光<br>
+株式会社ジーテクト<br>
+技術本部<br>
+Sakae_Hara@g-tekt.co.jp<br>
+080-7837-9368<br>
+***************************<br>
+ <br>
+2019/02/19 21:33、羽田 智 <sajyan_882002@yahoo.co.jp>のメール:<br>
+ <br>
+> 光るちゃん<br>
+> 返信ありがとうございます😊<br>
+> かわっちょの名前がわかったら連絡下さい。<br>
+> 川田＊＊？<br>
+> はだっち<br>
+><br>
+
+	
+<br><br>
+ヒカルです。<br>
+連絡遅れました。<br>
+週末、カワッチョの家に行ってみましたが留守で連絡取れてません。ごめんなさい。<br>
+次に行けるのはまた今週末なので、社内で連絡取れるのであれば、その方が早くわかると思いますが...<br>
+<br>
+<br>
+iPhoneから送信<br>
+<br>
+***************************<br>
+原 栄光<br>
+株式会社ジーテクト<br>
+技術本部<br>
+Sakae_Hara@g-tekt.co.jp<br>
+080-7837-9368<br>
+***************************<br>
 
 -----Original Message-----<br>
 From: Hideyuki Takahashi (高橋 秀幸) <br>
