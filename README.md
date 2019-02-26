@@ -52,7 +52,7 @@ body::before {
   left:0;
   z-index:-1;
   width:100%;
-  height:100vh;https://torokoid.github.io/gousan/20181115_29.JPG
+  height:100vh;https://torokoid.github.io/gousan/20111125_014.JPG
   background:url() center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
