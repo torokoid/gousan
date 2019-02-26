@@ -36,8 +36,12 @@ font-size: 1.5em;
 	text-align: center;
 }
 
+main {
+background-color: rgba(255, 255, 255, 0.3);
+}
+
 section {
-background-color: rgba(192, 192, 192, 0.3);
+background-color: rgba(0, 225, 0, 0.5);
 }
 
 #wrap {background:none} /*PC用の背景はオフ*/
@@ -49,8 +53,8 @@ body::before {
   left:0;
   z-index:-1;
   width:100%;
-  height:100vh;https://torokoid.github.io/gousan/20111125_014.JPG
-  background:url() center/cover no-repeat; /*fixedをトル！*/
+  height:100vh;
+  background:url(https://torokoid.github.io/gousan/20111125_014.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
