@@ -66,7 +66,7 @@ body::before {
 <body>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2019年3月8日(金)に’８５研友会、郷田さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-	<span class="blue"><p align="right">背景挿入予定</p></span><br>
+	<span class="blue"><p align="right">背景入換予定</p></span><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
