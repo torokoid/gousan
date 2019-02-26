@@ -35,10 +35,11 @@ font-size: 1.5em;
 	color: #FFF;
 	text-align: center;
 }
-
+<!--
 body {
 background-color: rgba(0, 225, 0, 0.4); 
 }
+-->
 section {
 background-color: rgba(192, 192, 192, 0.3);
 }
