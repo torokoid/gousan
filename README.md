@@ -69,7 +69,7 @@ body::before {
 	<span class="blue"><p align="right">背景入換予定</p></span><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
-<h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<h3><span class="white">↓ 2011年11月25日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20111125_001.JPG" data-lightbox="abc"><img src="20111125_001.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20111125_002.JPG" data-lightbox="abc"><img src="20111125_002.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20111125_003.JPG" data-lightbox="abc"><img src="20111125_003.JPG" alt="サンプル画像" width="180" /></a>
