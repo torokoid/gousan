@@ -69,6 +69,13 @@ body::before {
 	<span class="blue"><p align="right">背景入換予定</p></span><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
+<h3><span class="white">↓ 2013年3月27日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<a href="20130328_001.JPG" data-lightbox="abc"><img src="20130328_001.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20130328_002.JPG" data-lightbox="abc"><img src="20130328_002.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20130328_003.JPG" data-lightbox="abc"><img src="20130328_003.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20130328_004.JPG" data-lightbox="abc"><img src="20130328_004.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20130328_005.JPG" data-lightbox="abc"><img src="20130328_005.JPG" alt="サンプル画像" width="180" /></a>
+<br>
 <h3><span class="white">↓ 2011年11月25日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20111125_001.JPG" data-lightbox="abc"><img src="20111125_001.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20111125_002.JPG" data-lightbox="abc"><img src="20111125_002.JPG" alt="サンプル画像" width="180" /></a>
@@ -92,12 +99,16 @@ body::before {
 <a href="20111125_020.JPG" data-lightbox="abc"><img src="20111125_020.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20111125_021.JPG" data-lightbox="abc"><img src="20111125_021.JPG" alt="サンプル画像" width="180" /></a>
 <br>
-<h3><span class="white">↓ 2013年3月27日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
-<a href="20130328_001.JPG" data-lightbox="abc"><img src="20130328_001.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20130328_002.JPG" data-lightbox="abc"><img src="20130328_002.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20130328_003.JPG" data-lightbox="abc"><img src="20130328_003.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20130328_004.JPG" data-lightbox="abc"><img src="20130328_004.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20130328_005.JPG" data-lightbox="abc"><img src="20130328_005.JPG" alt="サンプル画像" width="180" /></a>
+<h3><span class="white">↓ 1992年2月21日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<a href="19920221_001.JPG" data-lightbox="abc"><img src="19920221_001.JPG" alt="サンプル画像" width="180" /></a>
+<a href="19920221_002.JPG" data-lightbox="abc"><img src="19920221_002.JPG" alt="サンプル画像" width="180" /></a>
+
+<br>
+<h3><span class="white">↓ 1986年12月29日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<a href="19861229_001.JPG" data-lightbox="abc"><img src="19861229_001.JPG" alt="サンプル画像" width="180" /></a>
+<a href="19861229_002.JPG" data-lightbox="abc"><img src="19861229_002.JPG" alt="サンプル画像" width="180" /></a>
+<a href="19861229_003.JPG" data-lightbox="abc"><img src="19861229_003.JPG" alt="サンプル画像" width="180" /></a>
+
 	
 
 <!--
