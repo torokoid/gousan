@@ -69,6 +69,7 @@ body::before {
 	<span class="blue"><p align="right">背景入換予定</p></span><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+
 <div>
 <h3><span class="white">↓ 2013年3月27日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20130328_001.JPG" data-lightbox="abc"><img src="20130328_001.JPG" alt="サンプル画像" width="180" /></a>
