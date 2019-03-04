@@ -68,7 +68,7 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	<span class="blue"><p align="right">背景入換予定</p></span><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
 
 <div>
 <h3><span class="white">↓ 2013年3月27日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
