@@ -122,15 +122,12 @@ body::before {
 <a href="1985_006.PNG" data-lightbox="abc"><img src="1985_006.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_007.PNG" data-lightbox="abc"><img src="1985_007.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_008.PNG" data-lightbox="abc"><img src="1985_008.PNG" alt="サンプル画像" width="200" /></a>
-<a href="1985_009.PNG" data-lightbox="abc"><img src="1985_009.PNG" alt="サンプル画像" width="200" /></a>
-<a href="1985_010.PNG" data-lightbox="abc"><img src="1985_010.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_011.PNG" data-lightbox="abc"><img src="1985_011.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_012.PNG" data-lightbox="abc"><img src="1985_012.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_013.PNG" data-lightbox="abc"><img src="1985_013.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_014.PNG" data-lightbox="abc"><img src="1985_014.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_015.PNG" data-lightbox="abc"><img src="1985_015.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_016.PNG" data-lightbox="abc"><img src="1985_016.PNG" alt="サンプル画像" width="200" /></a>
-<a href="1985_017.PNG" data-lightbox="abc"><img src="1985_017.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_018.PNG" data-lightbox="abc"><img src="1985_018.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_019.PNG" data-lightbox="abc"><img src="1985_019.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_020.PNG" data-lightbox="abc"><img src="1985_020.PNG" alt="サンプル画像" width="200" /></a>
@@ -143,6 +140,9 @@ body::before {
 <a href="1985_027.PNG" data-lightbox="abc"><img src="1985_027.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_028.PNG" data-lightbox="abc"><img src="1985_028.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_029.PNG" data-lightbox="abc"><img src="1985_029.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_009.PNG" data-lightbox="abc"><img src="1985_009.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_010.PNG" data-lightbox="abc"><img src="1985_010.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_017.PNG" data-lightbox="abc"><img src="1985_017.PNG" alt="サンプル画像" width="200" /></a>
 	
 
 <!--
