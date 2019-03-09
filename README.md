@@ -72,10 +72,10 @@ body::before {
 
 <div>
 <h3><span class="white">↓ 2019年3月8日、Goさんご卒業パーティー、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
-<a href="20190308_001.JPG" data-lightbox="abc"><img src="20190308_001.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190308_002.JPG" data-lightbox="abc"><img src="20190308_002.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190308_004.JPG" data-lightbox="abc"><img src="20190308_004.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190308_003.JPG" data-lightbox="abc"><img src="20190308_003.JPG" alt="サンプル画像" width="600" /></a>
+<a href="20190308_001.jpg" data-lightbox="abc"><img src="20190308_001.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190308_002.jpg" data-lightbox="abc"><img src="20190308_002.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190308_004.jpg" data-lightbox="abc"><img src="20190308_004.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190308_003.jpg" data-lightbox="abc"><img src="20190308_003.jpg" alt="サンプル画像" width="600" /></a>
 <br>
 <h3><span class="white">↓ 2013年3月27日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20130328_001.JPG" data-lightbox="abc"><img src="20130328_001.JPG" alt="サンプル画像" width="180" /></a>
