@@ -155,7 +155,7 @@ body::before {
 <h1>     <span class="blue"><strong>動画リンク</strong></span></h1>
  <h3>
 <p>Goさんのお言葉<br>
- <a href="https://youtu.be/gXKAqolou9U" target="_blank">Goさんスピーチ</a><br/>
+ <a href="https://youtu.be/gXKAqolou9U" target="_blank">youtubeリンク</a><br/>
 	</p></h3>
 
 
