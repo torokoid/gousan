@@ -54,7 +54,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/gousan/20111125_014.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/gousan/20190308_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -71,6 +71,12 @@ body::before {
 <p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
 
 <div>
+<h3><span class="white">↓ 2019年3月8日、Goさんご卒業パーティー、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<a href="20190308_001.JPG" data-lightbox="abc"><img src="20190308_001.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190308_002.JPG" data-lightbox="abc"><img src="20190308_002.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190308_004.JPG" data-lightbox="abc"><img src="20190308_004.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190308_003.JPG" data-lightbox="abc"><img src="20190308_003.JPG" alt="サンプル画像" width="600" /></a>
+<br>
 <h3><span class="white">↓ 2013年3月27日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20130328_001.JPG" data-lightbox="abc"><img src="20130328_001.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20130328_002.JPG" data-lightbox="abc"><img src="20130328_002.JPG" alt="サンプル画像" width="180" /></a>
