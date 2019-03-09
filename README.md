@@ -114,35 +114,35 @@ body::before {
 
 <br>
 <h3><span class="white">↓ 1985年**月**日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
-<a href="1985_001.JPG" data-lightbox="abc"><img src="1985_001.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_002.JPG" data-lightbox="abc"><img src="1985_002.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_003.JPG" data-lightbox="abc"><img src="1985_003.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_004.JPG" data-lightbox="abc"><img src="1985_004.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_005.JPG" data-lightbox="abc"><img src="1985_005.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_006.JPG" data-lightbox="abc"><img src="1985_006.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_007.JPG" data-lightbox="abc"><img src="1985_007.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_008.JPG" data-lightbox="abc"><img src="1985_008.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_009.JPG" data-lightbox="abc"><img src="1985_009.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_010.JPG" data-lightbox="abc"><img src="1985_010.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_011.JPG" data-lightbox="abc"><img src="1985_011.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_012.JPG" data-lightbox="abc"><img src="1985_012.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_013.JPG" data-lightbox="abc"><img src="1985_013.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_014.JPG" data-lightbox="abc"><img src="1985_014.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_015.JPG" data-lightbox="abc"><img src="1985_015.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_016.JPG" data-lightbox="abc"><img src="1985_016.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_017.JPG" data-lightbox="abc"><img src="1985_017.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_018.JPG" data-lightbox="abc"><img src="1985_018.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_019.JPG" data-lightbox="abc"><img src="1985_019.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_020.JPG" data-lightbox="abc"><img src="1985_020.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_021.JPG" data-lightbox="abc"><img src="1985_021.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_022.JPG" data-lightbox="abc"><img src="1985_022.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_023.JPG" data-lightbox="abc"><img src="1985_023.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_024.JPG" data-lightbox="abc"><img src="1985_024.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_025.JPG" data-lightbox="abc"><img src="1985_025.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_026.JPG" data-lightbox="abc"><img src="1985_026.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_027.JPG" data-lightbox="abc"><img src="1985_027.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_028.JPG" data-lightbox="abc"><img src="1985_028.JPG" alt="サンプル画像" width="200" /></a>
-<a href="1985_029.JPG" data-lightbox="abc"><img src="1985_029.JPG" alt="サンプル画像" width="200" /></a>
+<a href="1985_001.PNG" data-lightbox="abc"><img src="1985_001.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_002.PNG" data-lightbox="abc"><img src="1985_002.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_003.PNG" data-lightbox="abc"><img src="1985_003.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_004.PNG" data-lightbox="abc"><img src="1985_004.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_005.PNG" data-lightbox="abc"><img src="1985_005.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_006.PNG" data-lightbox="abc"><img src="1985_006.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_007.PNG" data-lightbox="abc"><img src="1985_007.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_008.PNG" data-lightbox="abc"><img src="1985_008.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_009.PNG" data-lightbox="abc"><img src="1985_009.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_010.PNG" data-lightbox="abc"><img src="1985_010.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_011.PNG" data-lightbox="abc"><img src="1985_011.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_012.PNG" data-lightbox="abc"><img src="1985_012.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_013.PNG" data-lightbox="abc"><img src="1985_013.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_014.PNG" data-lightbox="abc"><img src="1985_014.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_015.PNG" data-lightbox="abc"><img src="1985_015.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_016.PNG" data-lightbox="abc"><img src="1985_016.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_017.PNG" data-lightbox="abc"><img src="1985_017.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_018.PNG" data-lightbox="abc"><img src="1985_018.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_019.PNG" data-lightbox="abc"><img src="1985_019.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_020.PNG" data-lightbox="abc"><img src="1985_020.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_021.PNG" data-lightbox="abc"><img src="1985_021.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_022.PNG" data-lightbox="abc"><img src="1985_022.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_023.PNG" data-lightbox="abc"><img src="1985_023.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_024.PNG" data-lightbox="abc"><img src="1985_024.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_025.PNG" data-lightbox="abc"><img src="1985_025.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_026.PNG" data-lightbox="abc"><img src="1985_026.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_027.PNG" data-lightbox="abc"><img src="1985_027.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_028.PNG" data-lightbox="abc"><img src="1985_028.PNG" alt="サンプル画像" width="200" /></a>
+<a href="1985_029.PNG" data-lightbox="abc"><img src="1985_029.PNG" alt="サンプル画像" width="200" /></a>
 	
 
 <!--
