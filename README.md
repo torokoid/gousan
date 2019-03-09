@@ -148,47 +148,21 @@ body::before {
 <a href="1985_009.PNG" data-lightbox="abc"><img src="1985_009.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_010.PNG" data-lightbox="abc"><img src="1985_010.PNG" alt="サンプル画像" width="200" /></a>
 <a href="1985_017.PNG" data-lightbox="abc"><img src="1985_017.PNG" alt="サンプル画像" width="200" /></a>
-	
 
-<!--
-<a href="20181115_05.JPG" data-lightbox="abc"><img src="20181115_05.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_06.JPG" data-lightbox="abc"><img src="20181115_06.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_07.JPG" data-lightbox="abc"><img src="20181115_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_08.JPG" data-lightbox="abc"><img src="20181115_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_09.JPG" data-lightbox="abc"><img src="20181115_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_10.JPG" data-lightbox="abc"><img src="20181115_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_11.JPG" data-lightbox="abc"><img src="20181115_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_12.JPG" data-lightbox="abc"><img src="20181115_12.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_13.JPG" data-lightbox="abc"><img src="20181115_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_14.JPG" data-lightbox="abc"><img src="20181115_14.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_15.JPG" data-lightbox="abc"><img src="20181115_15.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_16.JPG" data-lightbox="abc"><img src="20181115_16.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_17.JPG" data-lightbox="abc"><img src="20181115_17.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_18.JPG" data-lightbox="abc"><img src="20181115_18.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_19.JPG" data-lightbox="abc"><img src="20181115_19.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_20.JPG" data-lightbox="abc"><img src="20181115_20.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_21.JPG" data-lightbox="abc"><img src="20181115_21.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_22.JPG" data-lightbox="abc"><img src="20181115_22.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_23.JPG" data-lightbox="abc"><img src="20181115_23.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_24.JPG" data-lightbox="abc"><img src="20181115_24.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_25.JPG" data-lightbox="abc"><img src="20181115_25.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_26.JPG" data-lightbox="abc"><img src="20181115_26.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_27.JPG" data-lightbox="abc"><img src="20181115_27.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_28.JPG" data-lightbox="abc"><img src="20181115_28.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_29.JPG" data-lightbox="abc"><img src="20181115_29.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_31.JPG" data-lightbox="abc"><img src="20181115_31.JPG" alt="サンプル画像" width="180" /></a>
--->
 <h4><span class="white">↑画像挿入イメージ。</span></h4><br>
 
-<!--
-<h1>     <span class="blue"><strong>動画リンク集</strong></span></h1>
+	
+<h1>     <span class="blue"><strong>動画リンク</strong></span></h1>
  <h3>
-<p>動画挿入イメージ<br>
- <a href="https://youtu.be/W5K0uA5AadE" target="_blank">横山さんスピーチ</a><br/>
- <a href="https://youtu.be/rfUiO9g_3ug" target="_blank">古橋さんスピーチ</a><br/>
+<p>Goさんのお言葉<br>
+ <a href="https://youtu.be/gXKAqolou9U" target="_blank">Goさんスピーチ</a><br/>
 	</p></h3>
--->
+
+
+
+
+<a href="20111125_014.JPG" data-lightbox="abc"><img src="20111125_014.JPG" alt="サンプル画像" width="2000" /></a>
+
 <br><br>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
@@ -812,7 +786,7 @@ Eメール　Hideyuki_Takahashi@sakura.rd.honda.com<br>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- フッタ -->
  <footer><span class="snow">
