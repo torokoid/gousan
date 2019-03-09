@@ -107,9 +107,14 @@ body::before {
 <a href="19861229_003.jpg" data-lightbox="abc"><img src="19861229_003.jpg" alt="サンプル画像" width="180" /></a>
 
 <br>
-<h3><span class="white">↓ 1986年12月29日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<h3><span class="white">↓ 1986年12月29~30日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="19861229_001.jpg" data-lightbox="abc"><img src="19861229_001.jpg" alt="サンプル画像" width="180" /></a>
 <a href="19861229_002.jpg" data-lightbox="abc"><img src="19861229_002.jpg" alt="サンプル画像" width="180" /></a>
+<a href="19861229_003.PNG" data-lightbox="abc"><img src="19861229_003.PNG" alt="サンプル画像" width="180" /></a>
+<a href="19861229_004.PNG" data-lightbox="abc"><img src="19861229_004.PNG" alt="サンプル画像" width="180" /></a>
+<a href="19861230_001.PNG" data-lightbox="abc"><img src="19861230_001.PNG" alt="サンプル画像" width="180" /></a>
+<a href="19861230_002.PNG" data-lightbox="abc"><img src="19861230_002.PNG" alt="サンプル画像" width="180" /></a>
+
 
 
 <br>
