@@ -54,7 +54,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/gousan/20190308_001.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/gousan/20190308_005.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -75,6 +75,7 @@ body::before {
 <a href="20190308_001.jpg" data-lightbox="abc"><img src="20190308_001.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20190308_002.jpg" data-lightbox="abc"><img src="20190308_002.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20190308_004.jpg" data-lightbox="abc"><img src="20190308_004.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190308_005.JPG" data-lightbox="abc"><img src="20190308_005.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190308_003.jpg" data-lightbox="abc"><img src="20190308_003.jpg" alt="サンプル画像" width="600" /></a>
 <h3><span class="white">パノラマ撮影で動いてしまって頭が見えなくなった人もいますが、ご愛嬌〜〜(><)</span></h3>
 <br>
