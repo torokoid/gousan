@@ -243,7 +243,7 @@ WDHACの仕事や武漢での生活も大変だったと思います。本当に
 個人携帯：090-4672-3268<br>
 　 Email：sgoda553268@gmail.com<br>
 住所：日光市森友521-1<br>
-<br><br>
+<br><br></span>
 </section2>
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
@@ -862,7 +862,7 @@ Phone(直通) 080-9196-6625　　FAX 028-677-6705<br>
 Eメール　Hideyuki_Takahashi@sakura.rd.honda.com<br>
 *****************************************<br>
 <br>
-<br>
+<br></span>
 </section>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
