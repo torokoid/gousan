@@ -171,10 +171,10 @@ body::before {
 
 <a href="20111125_014.JPG" data-lightbox="abc"><img src="20111125_014.JPG" alt="サンプル画像" width="2000" /></a>
 
-<br><br>
+<br><br><br>
+<section><br>
 <span class="snow"><h1>・・・ゴーさんから、お礼のメール・・・</h1><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
-<section>
 
 From: SUEO GOUDA (郷田 末雄) <sueo_goda@hm.honda.co.jp><br>
 To: Hideyuki Takahashi (高橋 秀幸) <hideyuki_takahashi@sakura.rd.honda.com>; 羽田 智 <sajyan_882002@yahoo.co.jp>; Mitsuo Takashima (高島 光男) <mitsuo_takashima@n.t.rd.honda.co.jp>; "Takayuki_Takada@autotechnic.co.jp" <Takayuki_Takada@autotechnic.co.jp>; "gt_s.hara@icloud.com" <gt_s.hara@icloud.com>; Akihiro Takano (高野 明浩) <akihiro_takano@n.t.rd.honda.co.jp> <br>
@@ -240,10 +240,10 @@ WDHACの仕事や武漢での生活も大変だったと思います。本当に
 住所：日光市森友521-1<br>
 <br><br>
 </section>
-<br><br>
+<br><br><br>
+<section><br>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
-<section>
 	
 カワッチョさん<br>
  <br>
