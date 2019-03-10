@@ -44,10 +44,6 @@ section {
 background-color: rgba(0, 225, 0, 0.5);
 }
 
-section2 {
-background-color: rgba(0, 225, 225, 0.5);
-}
-
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -176,8 +172,7 @@ body::before {
 <a href="20111125_014.JPG" data-lightbox="abc"><img src="20111125_014.JPG" alt="サンプル画像" width="2000" /></a>
 
 <br><br><br>
-<section2>
-	<br>
+<section>
 <span class="snow"><h1>・・・ゴーさんから、お礼のメール・・・</h1><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 
@@ -244,13 +239,12 @@ WDHACの仕事や武漢での生活も大変だったと思います。本当に
 　 Email：sgoda553268@gmail.com<br>
 住所：日光市森友521-1<br>
 <br><br></span>
-</section2>
+</section>
 
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="10" width="80%">(^_^)/~hadacchi~</marquee></p>
 
 <br><br><br>
 <section>
-	<br>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 	
