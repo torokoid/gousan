@@ -172,7 +172,7 @@ body::before {
 <a href="20111125_014.JPG" data-lightbox="abc"><img src="20111125_014.JPG" alt="サンプル画像" width="2000" /></a>
 
 <br><br>
-<span class="snow"><h1>・・・お礼のメール・・・</h1><br>
+<span class="snow"><h1>・・・ゴーさんから、お礼のメール・・・</h1><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 <section>
 
