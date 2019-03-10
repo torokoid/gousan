@@ -172,7 +172,8 @@ body::before {
 <a href="20111125_014.JPG" data-lightbox="abc"><img src="20111125_014.JPG" alt="サンプル画像" width="2000" /></a>
 
 <br><br><br>
-<section><br>
+<section>
+	<br>
 <span class="snow"><h1>・・・ゴーさんから、お礼のメール・・・</h1><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 
@@ -240,8 +241,10 @@ WDHACの仕事や武漢での生活も大変だったと思います。本当に
 住所：日光市森友521-1<br>
 <br><br>
 </section>
+
 <br><br><br>
-<section><br>
+<section>
+	<br>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 	
