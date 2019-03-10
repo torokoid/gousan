@@ -240,8 +240,8 @@ WDHACの仕事や武漢での生活も大変だったと思います。本当に
 住所：日光市森友521-1<br>
 <br><br></span>
 </section>
-
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">(^_^)/~Gousan!~</marquee></p>
+<br>
+<p align="left"><marquee direction="left" scrollamount="10" width="90%">(^_^)/~Go san !~</marquee></p>
 
 <br><br><br>
 <section>
