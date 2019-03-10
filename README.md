@@ -241,7 +241,7 @@ WDHACの仕事や武漢での生活も大変だったと思います。本当に
 <br><br></span>
 </section>
 
-<p align="right"><marquee direction="right" scrollamount="10" width="80%">(^_^)/~hadacchi~</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">(^_^)/~Gousan!~</marquee></p>
 
 <br><br><br>
 <section>
