@@ -169,7 +169,7 @@ body::before {
  <a href="https://youtu.be/gXKAqolou9U" target="_blank">youtubeリンク</a><br/>
 	</p></h3>
 
-<h3><span class="white">↓ 2011年11月25日の画像より厳選抽出</span></h3>
+<h3><p align="right"><span class="white">↓ 2011年11月25日の画像より厳選抽出</span></h3>
 <a href="20111125_014.JPG" data-lightbox="abc"><img src="20111125_014.JPG" alt="サンプル画像" width="2000" /></a>
 
 <br><br><br>
