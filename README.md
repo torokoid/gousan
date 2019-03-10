@@ -245,6 +245,7 @@ WDHACの仕事や武漢での生活も大変だったと思います。本当に
 住所：日光市森友521-1<br>
 <br><br>
 </section2>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <br><br><br>
 <section>
