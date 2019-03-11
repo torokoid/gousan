@@ -79,6 +79,9 @@ body::before {
 <a href="20190308_003.jpg" data-lightbox="abc"><img src="20190308_003.jpg" alt="サンプル画像" width="600" /></a>
 <h3><span class="white">パノラマ撮影で動いてしまって頭が見えなくなった人もいますが、ご愛嬌〜〜(><)</span></h3>
 <br>
+<h3><span class="white">↓ 2014年5月3日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<a href="20140503_001.JPG" data-lightbox="abc"><img src="20140503_001.JPG" alt="サンプル画像" width="180" /></a>
+<br>
 <h3><span class="white">↓ 2013年3月27日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20130328_001.JPG" data-lightbox="abc"><img src="20130328_001.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20130328_002.JPG" data-lightbox="abc"><img src="20130328_002.JPG" alt="サンプル画像" width="180" /></a>
