@@ -64,7 +64,7 @@ body::before {
 </head>
 <body>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<span class="blue"><p align="right">背景は85当時をイメージしたVサイン！</p></span><br>
+<span class="blue"><p align="right">背景は85当時をイメージしたVサイン！</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2019年3月8日(金)に’８５研友会、郷田さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
