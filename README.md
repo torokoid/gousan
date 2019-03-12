@@ -111,6 +111,8 @@ body::before {
 <a href="20190308_036.JPG" data-lightbox="abc"><img src="20190308_036.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190308_037.JPG" data-lightbox="abc"><img src="20190308_037.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190308_038.JPG" data-lightbox="abc"><img src="20190308_038.JPG" alt="サンプル画像" width="200" /></a>
+<h3><span class="white">翌週帰宅した時にメーターを見ると、555(ゴーさん)、偶然とは言えゴーさんパワー凄い！</span></h3>
+<a href="20190312_001.JPG" data-lightbox="abc"><img src="20190312_001.JPG" alt="サンプル画像" width="360" /></a>
 <br>
 <h3><span class="white">↓ 2014年5月3日、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20140503_001.JPG" data-lightbox="abc"><img src="20140503_001.JPG" alt="サンプル画像" width="360" /></a>
