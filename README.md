@@ -76,7 +76,7 @@ body::before {
 <a href="20190308_006.JPG" data-lightbox="abc"><img src="20190308_006.JPG" alt="サンプル画像" width="225" /></a>
 <a href="20190308_002.jpg" data-lightbox="abc"><img src="20190308_002.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20190308_003.jpg" data-lightbox="abc"><img src="20190308_003.jpg" alt="サンプル画像" width="600" /></a>
-<a href="20190308_004.jpg" data-lightbox="abc"><img src="20190308_004.jpg" alt="サンプル画像" width="220" /></a>
+<a href="20190308_004.jpg" data-lightbox="abc"><img src="20190308_004.jpg" alt="サンプル画像" width="210" /></a>
 <h3><span class="white">パノラマ撮影で動いてしまって頭が見えなくなった人もいますが、ご愛嬌〜〜(> <)</span></h3>
 <a href="20190308_007.JPG" data-lightbox="abc"><img src="20190308_007.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190308_008.JPG" data-lightbox="abc"><img src="20190308_008.JPG" alt="サンプル画像" width="200" /></a>
