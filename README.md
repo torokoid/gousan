@@ -284,7 +284,7 @@ WDHACの仕事や武漢での生活も大変だったと思います。本当に
 住所：日光市森友521-1<br>
 <br><br></span>
 </section>
-<a href="https://github.com/torokoid/gousan/blob/master/開催通知.txt" target="_blank">お礼への返信、全文リンク</a>
+<h3><a href="https://github.com/torokoid/gousan/blob/master/返信.txt" target="_blank">お礼への返信、全文リンク</a></h3>
 <br>
 <p align="left"><marquee direction="left" scrollamount="10" width="90%">(^_^)/~Go san !~</marquee></p>
 
@@ -414,9 +414,9 @@ Eメール　Hideyuki_Takahashi@sakura.rd.honda.com<br>
 *****************************************<br>
 <br></span>
 </section>
-<a href="https://github.com/torokoid/gousan/blob/master/開催通知.txt" target="_blank">開催通知全文リンク</a>
+<h3><a href="https://github.com/torokoid/gousan/blob/master/開催通知.txt" target="_blank">開催通知、全文リンク</a></h3>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
-	
+
 	
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
