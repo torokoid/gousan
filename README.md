@@ -411,9 +411,9 @@ Honda R&D Co.,Ltd. HRD Sakura<br>
 Phone(直通) 080-9196-6625　　FAX 028-677-6705<br>
 Eメール　Hideyuki_Takahashi@sakura.rd.honda.com<br>
 *****************************************<br>
-<br>
 <br></span>
 </section>
+<a href="https://github.com/torokoid/gousan/blob/master/開催通知.txt" target="_blank">開催通知全文リンク</a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
 	
