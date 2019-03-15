@@ -62,7 +62,7 @@ body::before {
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
  
 </head>
-<body onload="alert('ゴーさん、お疲れ様でした。<br>またやりましょう！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
+<body onload="alert('ゴーさん、お疲れ様でした。'<br>'またやりましょう！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <span class="blue"><p align="right">背景は85当時をイメージしたVサイン！</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2019年3月8日(金)に’８５研友会、郷田さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
