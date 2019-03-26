@@ -132,7 +132,7 @@ body::before {
 　　（郷さんの前席　女性も「この袋いいねー」　・・・　残念）<br>
 以上、こんな感じでした。<br>
 たま～に会うのが　いいね！　また機会つくりましょう。<br>
-<h3><div align="right">2019/03/26</div><br></span></h3></section>
+<div align="right"><h3>2019/03/26</h3></div></span></section>
 <br><br><br><br><br><br>
 	
 <h3><span class="white">3/12(火)帰宅した時にメーターを見ると、なんとオドメータが555(ゴーさん)に！<br>
