@@ -121,17 +121,17 @@ body::before {
 これで任務終了。<br>
 郷さんより「あらためて、皆さんにありがとうございました」と伝えてとの事でした。<br>
 記念品をお見せします。　PT試作（木型）で作成した「こだわりの枡」<br><br>
-<a href="image001.png" data-lightbox="abc"><img src="image001.png" alt="サンプル画像" width="200" /></a>
+<a href="image001.png" data-lightbox="abc"><img src="image001.png" alt="サンプル画像" width="210" /></a>
 <a href="image002.png" data-lightbox="abc"><img src="image002.png" alt="サンプル画像" width="200" /></a>
-<a href="image003.png" data-lightbox="abc"><img src="image003.png" alt="サンプル画像" width="200" /></a>
+<a href="image003.png" data-lightbox="abc"><img src="image003.png" alt="サンプル画像" width="210" /></a><br>
 
 クリアーケースに収め、100円ショップのプレゼント袋に入れて＋スタバ手提げ紙袋（自由の女神なたいイラスト）<br><br>
 
 ・・・渡した時の一言：この袋いいねー　・・・　そこかい！みたいな（100円やで！）心の中で叫びました。<br>
 　　（郷さんの前席　女性も「この袋いいねー」　・・・　残念）<br>
 以上、こんな感じでした。<br>
-たま～に会うのが　いいね！　また機会つくりましょう。<br><br>
-	
+たま～に会うのが　いいね！　また機会つくりましょう。<br><br></span></h3>
+<br><br><br><br><br><br>
 	
 <h3><span class="white">3/12(火)帰宅した時にメーターを見ると、なんとオドメータが555(ゴーさん)に！<br>
 	偶然とは言えゴーさんパワー凄いです！</span></h3>
