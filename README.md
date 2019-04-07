@@ -443,7 +443,6 @@ Eメール　Hideyuki_Takahashi@sakura.rd.honda.com<br>
 <h3><a href="https://github.com/torokoid/gousan/wiki" target="_blank">開催通知、全文リンク</a></h3>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 
-	
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
