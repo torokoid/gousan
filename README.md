@@ -65,10 +65,25 @@ body::before {
 <body onload="alert('ゴーさん、お疲れ様でした。またやりましょう！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <span class="blue"><p align="right">背景は85当時をイメージしたVサイン！</p></span>
+	
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2019年5月17日(金)に’８４〜５研友会、ゴンさんのご卒業記念と見栄はるの帰国祝いパーティーが執り行われました !!!</marquee></span></h1>
+<p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
+
+<a href="20190517_001.JPG" data-lightbox="abc"><img src="20190517_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_002.JPG" data-lightbox="abc"><img src="20190517_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_003.JPG" data-lightbox="abc"><img src="20190517_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_004.JPG" data-lightbox="abc"><img src="20190517_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_005.JPG" data-lightbox="abc"><img src="20190517_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_006.JPG" data-lightbox="abc"><img src="20190517_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_007.JPG" data-lightbox="abc"><img src="20190517_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_008.JPG" data-lightbox="abc"><img src="20190517_008.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2019年3月8日(金)に’８５研友会、郷田さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
-<p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
+
 
 <div>
 <h3><span class="white">↓ 2019年3月8日、Goさんご卒業パーティー、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
