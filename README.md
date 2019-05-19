@@ -78,6 +78,18 @@ body::before {
 <a href="20190517_006.JPG" data-lightbox="abc"><img src="20190517_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190517_007.JPG" data-lightbox="abc"><img src="20190517_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190517_008.JPG" data-lightbox="abc"><img src="20190517_008.JPG" alt="サンプル画像" width="900" /></a>
+<p>以下ごんさん撮影分<br>
+おくります。<br>
+今日は幹事お疲れ様でした。<br>
+また お声がけください。<br>
+個人携帯<br>
+go_on_kueda@ezweb.ne.jp<br>
+080 5041 1313<br>
+gon (上田 和幸)<br>
+<a href="20190517_009.JPG" data-lightbox="abc"><img src="20190517_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_010.JPG" data-lightbox="abc"><img src="20190517_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_011.JPG" data-lightbox="abc"><img src="20190517_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190517_012.JPG" data-lightbox="abc"><img src="20190517_012.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
