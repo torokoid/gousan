@@ -66,7 +66,7 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <span class="blue"><p align="right">背景は85当時をイメージしたVサイン！</p></span>
 	
-<h1><span class="yellow"><marquee behavior="lrft">!!! 2019年5月17日(金)に’８４〜５研友会、ゴンさんのご卒業記念と見栄はるの帰国祝いパーティーが執り行われました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2019年5月17日(金)に’８４〜'8５研友会、ゴンさんのご卒業記念と見栄はるの帰国祝いパーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
 
