@@ -479,6 +479,10 @@ Eメール　Hideyuki_Takahashi@sakura.rd.honda.com<br>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
+<script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
+<script src="https://torokoid.github.io/shiba/my.js"></script> 
+
 <!-- フッタ -->
  <footer><span class="snow">
  Copyright 2019/03/08 S.Hada
