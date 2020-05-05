@@ -293,9 +293,10 @@ gon (上田 和幸)<br>
 	
 <h1>     <span class="blue"><strong>動画リンク</strong></span></h1>
  <h3>
-<p>Goさんのお言葉<br>
- <a href="https://youtu.be/gXKAqolou9U" target="_blank">youtubeリンク</a><br/>
-	</p></h3>
+<p>Goさんのお言葉</p></h3><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXKAqolou9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	
 
 <h3><p align="right"><span class="white">↓ 2011年11月25日の画像より厳選抽出</span>
 <a href="20111125_014.JPG" data-lightbox="abc"><img src="20111125_014.JPG" alt="サンプル画像" width="2000" /></a>
