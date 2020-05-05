@@ -62,6 +62,15 @@ body::before {
    p.note { display: none; }
 }
 
+@-webkit-keyframes animeX {
+	0%	{ -webkit-transform: rotateX(-0deg); }
+	100%	{ -webkit-transform :rotateX(360deg); }
+}
+@keyframes animeX {
+	0%	{ transform: rotateX(-0deg); }
+	100%	{ transform :rotateX(360deg); }
+}
+
 a.p:hover {
     position: relative;
     text-decoration: none;
