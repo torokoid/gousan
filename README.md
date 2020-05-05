@@ -56,7 +56,12 @@ body::before {
   background:url(https://torokoid.github.io/gousan/20190308_037.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
- 
+
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
+}
+
 a.p:hover {
     position: relative;
     text-decoration: none;
