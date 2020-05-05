@@ -62,6 +62,10 @@ body::before {
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
  
 </head>
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
 <body onload="alert('ゴーさん、お疲れ様でした。またやりましょう！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <span class="blue"><p align="right">背景は85当時をイメージしたVサイン！</p></span>
